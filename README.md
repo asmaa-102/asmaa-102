@@ -11,6 +11,7 @@
 
 - 🏢 I'm an Embedded Software Engineer 
 - 👨‍💻 Graduate from Computer Science & Artificial Intelligence Banha university
+-![image](https://github.com/asmaa-102/asmaa-102/assets/88839412/283bc38e-8079-4f8d-ba3c-6c27102238f4) my graduation project Self Driving Car (v2v)
 - 💬 Ask me about my experience with C, Python, Arduino, Embedded_C
 
 
