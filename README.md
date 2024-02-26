@@ -10,7 +10,8 @@
 </p>
 
 - 🏢 I'm an Embedded Software Engineer 
-- 👨‍💻 Graduate from Computer Science & Artificial Intelligence Banha university 
+- 👨‍💻 Graduate from Computer Science & Artificial Intelligence Banha university
+  
 -🎓My Graduation Project Self-Driving Car (v2v)
 - 💬 Ask me about my experience with C, Python, Arduino, Embedded_C
 
