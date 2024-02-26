@@ -26,4 +26,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse)&nbsp;
+![VNC](https://img.shields.io/badge/-VNC-05122A?style=flat&logo=VNC)&nbsp;
+![Putty](https://img.shields.io/badge/-Putty-05122A?style=flat&logo=Putty)&nbsp;
+
 
