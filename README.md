@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/asmaa-ahmed-3266a721a" target="_blank"><img src="https://img.shields.io/badge/asmaa%20ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### Languages and Tools
-![C]((https://www.w3schools.com/c/index.php))&nbsp;
+<a href="https://www.w3schools.com/c/index.php"></a>
 ![Embedded_C](https://img.shields.io/badge/-Embedded_C-05122A?style=flat&logo=Embedded_C)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
